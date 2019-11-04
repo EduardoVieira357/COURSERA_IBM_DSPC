@@ -1,0 +1,58 @@
+,Borough,B_total,Neighborhood,N_total
+0,Bronx,5,Riverdale,1
+1,Bronx,5,Morris Heights,1
+2,Bronx,5,Mott Haven,2
+3,Bronx,5,Concourse Village,1
+4,Brooklyn,31,Bay Ridge,2
+5,Brooklyn,31,Greenpoint,3
+6,Brooklyn,31,Gravesend,1
+7,Brooklyn,31,Windsor Terrace,1
+8,Brooklyn,31,Prospect Heights,2
+9,Brooklyn,31,Williamsburg,1
+10,Brooklyn,31,Bushwick,2
+11,Brooklyn,31,Bedford Stuyvesant,1
+12,Brooklyn,31,Red Hook,1
+13,Brooklyn,31,Fort Greene,1
+14,Brooklyn,31,Canarsie,1
+15,Brooklyn,31,Mill Island,1
+16,Brooklyn,31,Coney Island,1
+17,Brooklyn,31,Marine Park,1
+18,Brooklyn,31,Clinton Hill,1
+19,Brooklyn,31,Boerum Hill,3
+20,Brooklyn,31,East Williamsburg,3
+21,Brooklyn,31,North Side,1
+22,Brooklyn,31,South Side,1
+23,Brooklyn,31,Remsen Village,1
+24,Brooklyn,31,Broadway Junction,1
+25,Brooklyn,31,Dumbo,1
+26,Manhattan,23,Chinatown,1
+27,Manhattan,23,Central Harlem,2
+28,Manhattan,23,East Harlem,1
+29,Manhattan,23,Lincoln Square,4
+30,Manhattan,23,Clinton,1
+31,Manhattan,23,Murray Hill,1
+32,Manhattan,23,East Village,1
+33,Manhattan,23,Tribeca,3
+34,Manhattan,23,Financial District,4
+35,Manhattan,23,Carnegie Hill,1
+36,Manhattan,23,Civic Center,2
+37,Manhattan,23,Midtown South,1
+38,Manhattan,23,Flatiron,1
+39,Queens,18,Astoria,1
+40,Queens,18,Long Island City,3
+41,Queens,18,Ridgewood,2
+42,Queens,18,Glendale,1
+43,Queens,18,College Point,1
+44,Queens,18,Bayside,1
+45,Queens,18,Auburndale,1
+46,Queens,18,Little Neck,1
+47,Queens,18,Bellerose,1
+48,Queens,18,Steinway,2
+49,Queens,18,Forest Hills Gardens,1
+50,Queens,18,Utopia,1
+51,Queens,18,Hunters Point,1
+52,Queens,18,Sunnyside Gardens,1
+53,Staten Island,4,Stapleton,1
+54,Staten Island,4,New Dorp,1
+55,Staten Island,4,Grant City,1
+56,Staten Island,4,Chelsea,1
