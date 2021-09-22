@@ -1,3 +1,3 @@
-# Applied-Data-Science-Capstone
+# IBM Data Scientist Professional Certificate - Coursera
 
-# This is a test
+Final Project
